@@ -1,0 +1,301 @@
+Namespace(batch_size=5, classes=10, decay_rate=0.98, decay_step=30000, gpu_id=0, k=7, learning_rate=0.001, log_dir='log', max_epoch=100, momentum=0.9, num_supervoxels=4096, optimizer='adam', tra_data_path='../data/training_data_features/', tra_neighbors_1st_order_path='../data/training_data_features_1st_order_neighbors/', tra_neighbors_2nd_order_path='../data/training_data_features_2nd_order_neighbors/', val_data_path='../data/training_data_features/', val_neighbors_1st_order_path='../data/training_data_features_1st_order_neighbors/', val_neighbors_2nd_order_path='../data/training_data_features_2nd_order_neighbors/')
+**** EPOCH 000 ****
+training loss: 2.099957, training OA: 0.125586
+Model saved in file: log\epoch_0.ckpt
+**** EPOCH 001 ****
+training loss: 1.872660, training OA: 0.369434
+Model saved in file: log\epoch_1.ckpt
+**** EPOCH 002 ****
+training loss: 1.770329, training OA: 0.323096
+Model saved in file: log\epoch_2.ckpt
+**** EPOCH 003 ****
+training loss: 1.698903, training OA: 0.371338
+Model saved in file: log\epoch_3.ckpt
+**** EPOCH 004 ****
+training loss: 1.651953, training OA: 0.401953
+Model saved in file: log\epoch_4.ckpt
+**** EPOCH 005 ****
+training loss: 1.606745, training OA: 0.407129
+Model saved in file: log\epoch_5.ckpt
+**** EPOCH 006 ****
+training loss: 1.562077, training OA: 0.416406
+Model saved in file: log\epoch_6.ckpt
+**** EPOCH 007 ****
+training loss: 1.531360, training OA: 0.424707
+Model saved in file: log\epoch_7.ckpt
+**** EPOCH 008 ****
+training loss: 1.490468, training OA: 0.442285
+Model saved in file: log\epoch_8.ckpt
+**** EPOCH 009 ****
+training loss: 1.454067, training OA: 0.460010
+Model saved in file: log\epoch_9.ckpt
+**** EPOCH 010 ****
+training loss: 1.413648, training OA: 0.471338
+Model saved in file: log\epoch_10.ckpt
+**** EPOCH 011 ****
+training loss: 1.379173, training OA: 0.491943
+Model saved in file: log\epoch_11.ckpt
+**** EPOCH 012 ****
+training loss: 1.350740, training OA: 0.499121
+Model saved in file: log\epoch_12.ckpt
+**** EPOCH 013 ****
+training loss: 1.305913, training OA: 0.532324
+Model saved in file: log\epoch_13.ckpt
+**** EPOCH 014 ****
+training loss: 1.259481, training OA: 0.550439
+Model saved in file: log\epoch_14.ckpt
+**** EPOCH 015 ****
+training loss: 1.237949, training OA: 0.562549
+Model saved in file: log\epoch_15.ckpt
+**** EPOCH 016 ****
+training loss: 1.202828, training OA: 0.578955
+Model saved in file: log\epoch_16.ckpt
+**** EPOCH 017 ****
+training loss: 1.157991, training OA: 0.600635
+Model saved in file: log\epoch_17.ckpt
+**** EPOCH 018 ****
+training loss: 1.117213, training OA: 0.622021
+Model saved in file: log\epoch_18.ckpt
+**** EPOCH 019 ****
+training loss: 1.096075, training OA: 0.626318
+Model saved in file: log\epoch_19.ckpt
+**** EPOCH 020 ****
+training loss: 1.059899, training OA: 0.646729
+Model saved in file: log\epoch_20.ckpt
+**** EPOCH 021 ****
+training loss: 1.030661, training OA: 0.655664
+Model saved in file: log\epoch_21.ckpt
+**** EPOCH 022 ****
+training loss: 1.004411, training OA: 0.662988
+Model saved in file: log\epoch_22.ckpt
+**** EPOCH 023 ****
+training loss: 0.982636, training OA: 0.673682
+Model saved in file: log\epoch_23.ckpt
+**** EPOCH 024 ****
+training loss: 0.959172, training OA: 0.683154
+Model saved in file: log\epoch_24.ckpt
+**** EPOCH 025 ****
+training loss: 0.941024, training OA: 0.691846
+Model saved in file: log\epoch_25.ckpt
+**** EPOCH 026 ****
+training loss: 0.919004, training OA: 0.697314
+Model saved in file: log\epoch_26.ckpt
+**** EPOCH 027 ****
+training loss: 0.902763, training OA: 0.706641
+Model saved in file: log\epoch_27.ckpt
+**** EPOCH 028 ****
+training loss: 0.879408, training OA: 0.716895
+Model saved in file: log\epoch_28.ckpt
+**** EPOCH 029 ****
+training loss: 0.864343, training OA: 0.722461
+Model saved in file: log\epoch_29.ckpt
+**** EPOCH 030 ****
+training loss: 0.849368, training OA: 0.726904
+Model saved in file: log\epoch_30.ckpt
+**** EPOCH 031 ****
+training loss: 0.830856, training OA: 0.733740
+Model saved in file: log\epoch_31.ckpt
+**** EPOCH 032 ****
+training loss: 0.813157, training OA: 0.738525
+Model saved in file: log\epoch_32.ckpt
+**** EPOCH 033 ****
+training loss: 0.800777, training OA: 0.747803
+Model saved in file: log\epoch_33.ckpt
+**** EPOCH 034 ****
+training loss: 0.790594, training OA: 0.746191
+Model saved in file: log\epoch_34.ckpt
+**** EPOCH 035 ****
+training loss: 0.776905, training OA: 0.755762
+Model saved in file: log\epoch_35.ckpt
+**** EPOCH 036 ****
+training loss: 0.760477, training OA: 0.759814
+Model saved in file: log\epoch_36.ckpt
+**** EPOCH 037 ****
+training loss: 0.748986, training OA: 0.763965
+Model saved in file: log\epoch_37.ckpt
+**** EPOCH 038 ****
+training loss: 0.735032, training OA: 0.771387
+Model saved in file: log\epoch_38.ckpt
+**** EPOCH 039 ****
+training loss: 0.721570, training OA: 0.774219
+Model saved in file: log\epoch_39.ckpt
+**** EPOCH 040 ****
+training loss: 0.712543, training OA: 0.775684
+Model saved in file: log\epoch_40.ckpt
+**** EPOCH 041 ****
+training loss: 0.701297, training OA: 0.784033
+Model saved in file: log\epoch_41.ckpt
+**** EPOCH 042 ****
+training loss: 0.691708, training OA: 0.786084
+Model saved in file: log\epoch_42.ckpt
+**** EPOCH 043 ****
+training loss: 0.680463, training OA: 0.791162
+Model saved in file: log\epoch_43.ckpt
+**** EPOCH 044 ****
+training loss: 0.665483, training OA: 0.794189
+Model saved in file: log\epoch_44.ckpt
+**** EPOCH 045 ****
+training loss: 0.655568, training OA: 0.798828
+Model saved in file: log\epoch_45.ckpt
+**** EPOCH 046 ****
+training loss: 0.649803, training OA: 0.801270
+Model saved in file: log\epoch_46.ckpt
+**** EPOCH 047 ****
+training loss: 0.636041, training OA: 0.806494
+Model saved in file: log\epoch_47.ckpt
+**** EPOCH 048 ****
+training loss: 0.628679, training OA: 0.810352
+Model saved in file: log\epoch_48.ckpt
+**** EPOCH 049 ****
+training loss: 0.619853, training OA: 0.810791
+Model saved in file: log\epoch_49.ckpt
+**** EPOCH 050 ****
+training loss: 0.610847, training OA: 0.816357
+Model saved in file: log\epoch_50.ckpt
+**** EPOCH 051 ****
+training loss: 0.605366, training OA: 0.815576
+Model saved in file: log\epoch_51.ckpt
+**** EPOCH 052 ****
+training loss: 0.600568, training OA: 0.819824
+Model saved in file: log\epoch_52.ckpt
+**** EPOCH 053 ****
+training loss: 0.592073, training OA: 0.820410
+Model saved in file: log\epoch_53.ckpt
+**** EPOCH 054 ****
+training loss: 0.577177, training OA: 0.831836
+Model saved in file: log\epoch_54.ckpt
+**** EPOCH 055 ****
+training loss: 0.566209, training OA: 0.835693
+Model saved in file: log\epoch_55.ckpt
+**** EPOCH 056 ****
+training loss: 0.561203, training OA: 0.836035
+Model saved in file: log\epoch_56.ckpt
+**** EPOCH 057 ****
+training loss: 0.551469, training OA: 0.838477
+Model saved in file: log\epoch_57.ckpt
+**** EPOCH 058 ****
+training loss: 0.539264, training OA: 0.843262
+Model saved in file: log\epoch_58.ckpt
+**** EPOCH 059 ****
+training loss: 0.534483, training OA: 0.849561
+Model saved in file: log\epoch_59.ckpt
+**** EPOCH 060 ****
+training loss: 0.524206, training OA: 0.850586
+Model saved in file: log\epoch_60.ckpt
+**** EPOCH 061 ****
+training loss: 0.520249, training OA: 0.852051
+Model saved in file: log\epoch_61.ckpt
+**** EPOCH 062 ****
+training loss: 0.511461, training OA: 0.857178
+Model saved in file: log\epoch_62.ckpt
+**** EPOCH 063 ****
+training loss: 0.503477, training OA: 0.860645
+Model saved in file: log\epoch_63.ckpt
+**** EPOCH 064 ****
+training loss: 0.491606, training OA: 0.867188
+Model saved in file: log\epoch_64.ckpt
+**** EPOCH 065 ****
+training loss: 0.485961, training OA: 0.866943
+Model saved in file: log\epoch_65.ckpt
+**** EPOCH 066 ****
+training loss: 0.479493, training OA: 0.868408
+Model saved in file: log\epoch_66.ckpt
+**** EPOCH 067 ****
+training loss: 0.470445, training OA: 0.872998
+Model saved in file: log\epoch_67.ckpt
+**** EPOCH 068 ****
+training loss: 0.461515, training OA: 0.880176
+Model saved in file: log\epoch_68.ckpt
+**** EPOCH 069 ****
+training loss: 0.455388, training OA: 0.880713
+Model saved in file: log\epoch_69.ckpt
+**** EPOCH 070 ****
+training loss: 0.444166, training OA: 0.886621
+Model saved in file: log\epoch_70.ckpt
+**** EPOCH 071 ****
+training loss: 0.434526, training OA: 0.887988
+Model saved in file: log\epoch_71.ckpt
+**** EPOCH 072 ****
+training loss: 0.426534, training OA: 0.891602
+Model saved in file: log\epoch_72.ckpt
+**** EPOCH 073 ****
+training loss: 0.421827, training OA: 0.896045
+Model saved in file: log\epoch_73.ckpt
+**** EPOCH 074 ****
+training loss: 0.415098, training OA: 0.897900
+Model saved in file: log\epoch_74.ckpt
+**** EPOCH 075 ****
+training loss: 0.406876, training OA: 0.901611
+Model saved in file: log\epoch_75.ckpt
+**** EPOCH 076 ****
+training loss: 0.395129, training OA: 0.907178
+Model saved in file: log\epoch_76.ckpt
+**** EPOCH 077 ****
+training loss: 0.388576, training OA: 0.910547
+Model saved in file: log\epoch_77.ckpt
+**** EPOCH 078 ****
+training loss: 0.381606, training OA: 0.914111
+Model saved in file: log\epoch_78.ckpt
+**** EPOCH 079 ****
+training loss: 0.375100, training OA: 0.914209
+Model saved in file: log\epoch_79.ckpt
+**** EPOCH 080 ****
+training loss: 0.367549, training OA: 0.918311
+Model saved in file: log\epoch_80.ckpt
+**** EPOCH 081 ****
+training loss: 0.359390, training OA: 0.923486
+Model saved in file: log\epoch_81.ckpt
+**** EPOCH 082 ****
+training loss: 0.356710, training OA: 0.921973
+Model saved in file: log\epoch_82.ckpt
+**** EPOCH 083 ****
+training loss: 0.356865, training OA: 0.923535
+Model saved in file: log\epoch_83.ckpt
+**** EPOCH 084 ****
+training loss: 0.342537, training OA: 0.927881
+Model saved in file: log\epoch_84.ckpt
+**** EPOCH 085 ****
+training loss: 0.328580, training OA: 0.934619
+Model saved in file: log\epoch_85.ckpt
+**** EPOCH 086 ****
+training loss: 0.325449, training OA: 0.937012
+Model saved in file: log\epoch_86.ckpt
+**** EPOCH 087 ****
+training loss: 0.322674, training OA: 0.935693
+Model saved in file: log\epoch_87.ckpt
+**** EPOCH 088 ****
+training loss: 0.308732, training OA: 0.943994
+Model saved in file: log\epoch_88.ckpt
+**** EPOCH 089 ****
+training loss: 0.301767, training OA: 0.946094
+Model saved in file: log\epoch_89.ckpt
+**** EPOCH 090 ****
+training loss: 0.295800, training OA: 0.948438
+Model saved in file: log\epoch_90.ckpt
+**** EPOCH 091 ****
+training loss: 0.290052, training OA: 0.949756
+Model saved in file: log\epoch_91.ckpt
+**** EPOCH 092 ****
+training loss: 0.282125, training OA: 0.953662
+Model saved in file: log\epoch_92.ckpt
+**** EPOCH 093 ****
+training loss: 0.274144, training OA: 0.956885
+Model saved in file: log\epoch_93.ckpt
+**** EPOCH 094 ****
+training loss: 0.269817, training OA: 0.956592
+Model saved in file: log\epoch_94.ckpt
+**** EPOCH 095 ****
+training loss: 0.261588, training OA: 0.960938
+Model saved in file: log\epoch_95.ckpt
+**** EPOCH 096 ****
+training loss: 0.256934, training OA: 0.962402
+Model saved in file: log\epoch_96.ckpt
+**** EPOCH 097 ****
+training loss: 0.250205, training OA: 0.964990
+Model saved in file: log\epoch_97.ckpt
+**** EPOCH 098 ****
+training loss: 0.244411, training OA: 0.966699
+Model saved in file: log\epoch_98.ckpt
+**** EPOCH 099 ****
+training loss: 0.238952, training OA: 0.970508
+Model saved in file: log\epoch_99.ckpt
